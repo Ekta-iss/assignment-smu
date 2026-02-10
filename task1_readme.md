@@ -16,10 +16,12 @@ A **high-performance, fault-tolerant web scraper** that downloads Singapore eLit
 ---
 
 ##  Project Structure
+```bash
 .
-    ├── task1.py
-    ├── judgments_html/        # downloaded HTML files
-    └── task1_readme.md
+├── task1.py
+├── judgments_html/
+└── task1_readme.md
+```
 
 ---
 
@@ -91,9 +93,4 @@ Hybrid approach:
 
 ---
 
-## 📈 Performance
-Sequential: ~2–3 hours  
-Parallel: ~10–15 minutes
-
----
 
