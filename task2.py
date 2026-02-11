@@ -1,10 +1,5 @@
 """
-task2.py - FINAL VERSION
-
-Logic per HTML file:
-1) Explicit "Decision Date" field → use it
-2) Else → latest date in first 50 lines
-Output: output/decision_dates.csv (filename,decision_date)
+Please refer to task2_readme.md for detailed code explanation, edge case handling, features, validation, clean code architecture, etc.
 """
 
 import csv
